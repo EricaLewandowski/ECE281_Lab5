@@ -8,3 +8,6 @@ an input. It then adds the input value to another input value. That value is out
 the "loop" section of the program reseting the commands back to the ADDI command if there's a negative number 
 in the accumulator. If there isn't a negative number, the program continues to the next jump command which loops at 
 the end of the function. 
+
+#Demos
+Demo one completed: 22 April 2014
