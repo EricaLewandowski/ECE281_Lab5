@@ -24,8 +24,16 @@ b. IRLd
 c. ACCLd
 
 2. The current state of Decode LoAddr and the IR contains "OUT". What are the control signals asserted, and what will the next state be?
+    
+
 3. What are the three signals sent from the PRISM datapath to the PRISM controller?
+
+ 
+
 4. Why is it important that ACCLd signal be active during the execute stage for the ADDI instruction?
+
+
+
 5. What changes are necessary to the PRISM datapath to add another instruction to the instruction set?
 
 
